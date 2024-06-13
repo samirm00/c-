@@ -10,7 +10,7 @@ Start with the classic "Hello World" program to get familiar with C# syntax.
 
 Build a simple calculator application that performs basic arithmetic operations.
 
-### [3. Guess the Number](./guess-the-number/)
+### [3. Guess the Number](./GuessTheNumber/Program.cs)
 
 Create a game where the computer generates a random number and the user tries to guess it.
 
