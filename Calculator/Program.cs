@@ -28,7 +28,7 @@ namespace Calculator
                 Console.WriteLine($"Error: {ex.Message}");
             }
         }
-        public static float GetNumberFromUser()
+        private static float GetNumberFromUser()
         {
             while (true)
             {
@@ -46,7 +46,7 @@ namespace Calculator
             }
         }
 
-        public static char GetOperationFromUser()
+        private static char GetOperationFromUser()
         {
             while (true)
             {
